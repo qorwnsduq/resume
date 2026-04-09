@@ -2,5 +2,5 @@
 이 저장소는 제가 공부하며 만든 HTML 이력서 코드입니다.
 
 ## 🔗 완성된 웹사이트 보기
-[여기를 클릭하면 실제 웹사이트로 이동합니다!](https://junyeop3407.github.io/resume/)
-[여기를 클릭하면 코드로 이동합니다!](https://github.com/junyeop3407/resume/blob/main/index.html)
+[여기를 클릭하면 실제 웹사이트로 이동합니다!](https://junyeop3407.github.io/resume/)<br>
+[여기를 클릭하면 Source Code로 이동합니다!](https://github.com/junyeop3407/resume/blob/main/index.html)
